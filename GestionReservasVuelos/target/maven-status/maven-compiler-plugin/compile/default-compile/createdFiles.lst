@@ -1,0 +1,5 @@
+com\mycompany\gestionreservasvuelos\GestionReservasVuelos.class
+com\mycompany\gestionreservasvuelos\Vuelo.class
+com\mycompany\gestionreservasvuelos\VueloInternacional.class
+com\mycompany\gestionreservasvuelos\Asiento.class
+com\mycompany\gestionreservasvuelos\VueloNacional.class
